@@ -238,11 +238,3 @@ The project requires the following dependencies:
 
 
 You can find them listed in the **`pubspec.yaml`** file.
-
-## Contributions From:
-- Shiv Amin - 100867326
-- Samir Chowdhury - 100701372
-- Karan Patel - 100869607
-- Vibhavan Saibuvis - 100872481
-- Saksham Tejpal - 100874871
-- Aryan Ved - 100866032
